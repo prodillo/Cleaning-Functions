@@ -1,6 +1,6 @@
 # Cleaning-Functions
 
-This notebook contains the class 'cleaining' that has several methods that are useful to clean categorical variables. The methods are the following:
+This notebook contains the class 'cleaining' that has several methods that are useful to clean categorical variables. There is also a Scikit implementation of the methods 'remove_nulls' and 'group_categories' to be used in a pipeline of transformations. The methods are the following:
 
 - <b/>get_nulls(dataframe, columns)</b>: This method returns a dictionary with the percentage of nulls of each columns of a dataframe.
   
